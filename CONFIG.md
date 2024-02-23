@@ -5,7 +5,7 @@
 
 LHLTD
 
-# isEnabled
+> # isEnabled
 
 > Whether this feed should be published by the "Publish Feed Generators" step. Set to `true` or `false`.
 > faise
@@ -54,4 +54,4 @@ true
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 >
-> ![](ava02.png)
+> ![](avatar.png)
