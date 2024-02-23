@@ -3,20 +3,21 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-LHall
+LHLTD
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-LH
+lh
 
 # description
 
 > This is the description of the feed.
 
-「リヴァハン」のワードを拾うフィードです。
-除外ワードの設定はありません
+「リヴァハン」のワードを拾うフィードです
+除外ワードを設定しています（他CPなど）
+たまに、文字の組み合わせや並びによって意図しない除外となる場合もあるかもしれません
 
 # searchTerms
 
@@ -26,7 +27,7 @@ LH
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- リヴァハン
+- -モブレ -モブリ -エレリ -えれり -エレミカ -えれみか -モブハン -リヴァエル -リヴァエレ -エレハン -エルハン -ピクハン -ハンピク -リヴァペト -りばぺと -eruri -ereri -mbhn -フロハン -ジャンハン -アルアニ -リヴァミカ -りばみか -ジクリ -リヴァジク -えるり -え◯り -え○り -エ◯リ -エ○リ -エルリ -総受け -地雷 リヴァハン
 
 # denyList
 
@@ -46,5 +47,5 @@ true
 # avatar
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
-
-![](ava01.png)
+>
+> ![](ava01.png)
