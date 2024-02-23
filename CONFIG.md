@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-midomura
+test
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-てすと
+テスト運用
 
 # description
 
 > This is the description of the feed.
 
-てすと用
+テスト運用
 
 # searchTerms
 
@@ -24,7 +24,8 @@ midomura
 > - Keywords: Test these in [https://bsky.app/search](https://bsky.app/search). `AND` is implicit, so `cat dog` on one line will require both `cat` and `dog`. You can use quotes as well `"hot dog"`.
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
-- リヴァハン
+- リヴァ.ン
+- #リヴァハン
 
 # denyList
 
