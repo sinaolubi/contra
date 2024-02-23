@@ -16,7 +16,9 @@ lh
 > This is the description of the feed.
 
 「リヴァハン」のワードを拾うフィードです
+
 除外ワードを設定しています（他CPなど）
+
 稀に、文字の組み合わせや並びによって意図しない除外となる場合もあるかもしれません
 
 # searchTerms
