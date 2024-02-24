@@ -15,8 +15,7 @@ LH
 
 > This is the description of the feed.
 
-「リヴァハン」のワードを拾うフィードです
-除外ワードの設定はありません
+「リヴァハン」ワード検索。除外ワードの設定なし。
 
 # searchTerms
 
