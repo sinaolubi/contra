@@ -34,7 +34,7 @@ test
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 
-- エルリ
+- -エルリ
 
 # safeMode
 
