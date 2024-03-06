@@ -33,7 +33,7 @@ test
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
-
+- @mai112755.bsky.social
 
 # safeMode
 
